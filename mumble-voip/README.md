@@ -1,4 +1,4 @@
-Buenas comunidad! Os dejo por aquí un mumble-voip que he realizado, espero que os guste. Hay teneis una previews de como es.
+Buenas comunidad! Os dejo por aquí un mumble-voip que he realizado, espero que os guste. Hay teneis una preview de como es.
 
 ・| Discord: https://discord.gg/xuRvUaeKCV
 
